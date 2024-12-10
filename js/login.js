@@ -10,6 +10,6 @@ document
       console.log("you are login");
       window.location.href='/home.html'
     } else {
-      alert("wrong phone & pin ");
+      alert("wrong phone & pin");
     }
   });
