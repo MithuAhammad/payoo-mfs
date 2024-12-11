@@ -19,6 +19,6 @@ document
       console.log(calculateMoney);
       document.getElementById("account-balance").innerText = calculateMoney;
     } else {
-      alert("please add corract pin");
+      alert("Failed To Add Money , Please Try Again Later");
     }
   });
